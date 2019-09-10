@@ -8,7 +8,7 @@ public class Question6 {
 		 */
 		float score = 0;
 		while (score < 1) {
-			float score += .1;
+			 score += .1;
 			System.out.println(score);
 			if(score == .5) {
 				break;
