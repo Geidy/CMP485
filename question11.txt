@@ -1,0 +1,21 @@
+Question 11
+
+//Not very clear about it
+
+What does the super call do?
+Declare an object variable name
+
+What does this.size = size do?
+declare this.sixe, the length of the object
+
+
+What powers does g1 have at the end of the snippet?
+ g1 power 10
+
+
+What powers does g2 have at the end of the snippet?
+g2 power 10
+
+System.out.println(Goomba.powers) prints: [Ljava.lang.String;@6aaa5eb0
+What is this value?
+value = 8
